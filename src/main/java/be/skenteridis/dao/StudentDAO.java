@@ -1,7 +1,6 @@
 package be.skenteridis.dao;
 
 import be.skenteridis.model.Student;
-import be.skenteridis.service.StudentService;
 import be.skenteridis.util.DBUtil;
 
 import java.sql.*;

@@ -2,7 +2,6 @@ package be.skenteridis.service;
 
 import be.skenteridis.dao.StudentDAO;
 import be.skenteridis.model.Student;
-import be.skenteridis.util.DBUtil;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 

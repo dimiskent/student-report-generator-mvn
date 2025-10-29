@@ -4,7 +4,6 @@ import be.skenteridis.model.Student;
 import be.skenteridis.service.StudentService;
 import be.skenteridis.util.InputUtil;
 
-import java.io.File;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
